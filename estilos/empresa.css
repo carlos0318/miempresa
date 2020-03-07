@@ -1,0 +1,96 @@
+.fontTitulo1 {
+    font-size: 40px;
+}
+
+.navegador {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: gray;
+}
+
+.fontImg {
+    width: 500px;
+    height: 300px;
+}
+
+.cuadrop {
+    position: absolute;
+    top: 200px;
+    left: 575px;
+    border: 2px solid white;
+}
+
+.cuadroB {
+    position: absolute;
+    top: 265px;
+    left: 575px;
+}
+
+.fontTitulo2 {
+    color: white;
+    font-size: 20px;
+}
+
+.fontTitulo3 {
+    color: black;
+    font-size: 20px;
+    font-family: arial, verdana, tahoma;
+}
+
+.fontTitulo4 {
+    color: black;
+    font-size: 12px;
+    font-family: arial, verdana, tahoma;
+}
+
+.cuadrob {
+    position: absolute;
+    top: 350px;
+    left: 325px;
+    border: 2px solid white;
+    background-color: rgba(255, 255, 255, 0.63);
+}
+
+.cuadroa {
+    position: absolute;
+    top: 470px;
+    left: 500px;
+}
+
+.fontEtiqueta {
+    font-family: arial, verdana, tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: BLACK;
+}
+
+.botonP {
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+    border: 2px solid blue;
+}
+
+.botonC {
+    background-color: orange;
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+    border: 2px solid orange;
+}
